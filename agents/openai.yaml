@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT 可编辑 skill"
+  short_description: "将图片型PPT或截图重构为可编辑PPTX并完成全链路质量检查"
+  default_prompt: "Use $ppt-editable to convert this image-based slide into a reviewed editable PPTX."
