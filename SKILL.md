@@ -1,5 +1,5 @@
 ---
-name: ppt-editable
+name: cx-ppt-editable
 description: 将图片型 PPTX、整页 PNG/JPG、截图或扫描幻灯片按原图 1:1 重建为可编辑 PowerPoint。适用于严格复刻版式、文字、配色、图标、形状和线条，并要求所有对象保持顶层独立可编辑的任务；不用于根据提纲重新设计演示文稿。
 ---
 
